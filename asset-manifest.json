@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-leads-cpf/static/css/main.8ce2fa96.chunk.css",
+    "main.js": "/react-leads-cpf/static/js/main.69018fab.chunk.js",
+    "main.js.map": "/react-leads-cpf/static/js/main.69018fab.chunk.js.map",
+    "runtime-main.js": "/react-leads-cpf/static/js/runtime-main.b1d603b0.js",
+    "runtime-main.js.map": "/react-leads-cpf/static/js/runtime-main.b1d603b0.js.map",
+    "static/js/2.f0f2515d.chunk.js": "/react-leads-cpf/static/js/2.f0f2515d.chunk.js",
+    "static/js/2.f0f2515d.chunk.js.map": "/react-leads-cpf/static/js/2.f0f2515d.chunk.js.map",
+    "static/js/3.22ea168f.chunk.js": "/react-leads-cpf/static/js/3.22ea168f.chunk.js",
+    "static/js/3.22ea168f.chunk.js.map": "/react-leads-cpf/static/js/3.22ea168f.chunk.js.map",
+    "index.html": "/react-leads-cpf/index.html",
+    "static/css/main.8ce2fa96.chunk.css.map": "/react-leads-cpf/static/css/main.8ce2fa96.chunk.css.map",
+    "static/js/2.f0f2515d.chunk.js.LICENSE.txt": "/react-leads-cpf/static/js/2.f0f2515d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1d603b0.js",
+    "static/js/2.f0f2515d.chunk.js",
+    "static/css/main.8ce2fa96.chunk.css",
+    "static/js/main.69018fab.chunk.js"
+  ]
+}
